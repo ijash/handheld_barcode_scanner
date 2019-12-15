@@ -11,7 +11,7 @@ most linux distribution. But, it should be working fine with mac or windows.
 - [pyserial](https://pypi.org/project/pyserial/)
 ### Hardware
   Any generic, cheap chinese single directional laser barcode scanner (they're usually the same) with COM or serial communication over USB. 
-  It is dentified by a very _"direct"_ user manual such as this:
+  It is identified by a very _"direct"_ user manual such as this:
   ![alt text](maunal_preview.jpg "manual preview")
   
 ## Installation:
